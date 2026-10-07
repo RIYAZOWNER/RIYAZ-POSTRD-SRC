@@ -1,6 +1,7 @@
 {
-  "serverstatus": "true",
-  "servermeassage": "Server is running",
-  "tg_name": "@RIYAZXERO",
-  "Apis": "RIYAZXERO2026"
+  "libload": "true",
+  "version": "2.5",
+  "owner": "@RIYAZXERO",
+  "update": "New update available!",
+  "libs": "https://github.com/RIYAZOWNER/OnlineLIb/releases/download/RIYAZlib/libbgmi.zip"
 }
